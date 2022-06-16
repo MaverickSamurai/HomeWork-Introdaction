@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\bin\Debug\net6.0\HomeWork-Introdaction.exe
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\bin\Debug\net6.0\HomeWork-Introdaction.deps.json
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\bin\Debug\net6.0\HomeWork-Introdaction.runtimeconfig.json
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\bin\Debug\net6.0\HomeWork-Introdaction.dll
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\bin\Debug\net6.0\HomeWork-Introdaction.pdb
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.AssemblyInfo.cs
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.dll
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\refint\HomeWork-Introdaction.dll
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.pdb
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\HomeWork-Introdaction.genruntimeconfig.cache
+C:\Users\User\Desktop\Introdaction\C# HomeWork-Algoritm\HomeWork-Introdaction\HomeWork-Introdaction\obj\Debug\net6.0\ref\HomeWork-Introdaction.dll
